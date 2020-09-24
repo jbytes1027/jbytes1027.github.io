@@ -3,7 +3,19 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.assignment {
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    background: white;
+}
+
+.assignment img {
+    width: 200px;
+    padding:20px;
+}
+
 h1 {
-    color: darkslategray;
+    color: darkslateblue;
     text-align: center;
 }
