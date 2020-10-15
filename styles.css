@@ -8,6 +8,8 @@ body {
     padding: 10px;
     margin: 20px;
     background: #474B4F;
+    border-radius: 10px;
+    box-shadow: 5px 3px #61892F;
 }
 
 .assignment img {
@@ -15,11 +17,20 @@ body {
     padding:4px;
     border: 2px solid #86C232;
     margin-right: 20px;
+    border-radius: 10px;
+}
+
+.assignment img:hover {
+    border-color: white;
 }
 
 h1 {
     color: #61892F;
     text-align: center;
+}
+
+.assignment a:hover {
+    color: white;
 }
 
 a {
